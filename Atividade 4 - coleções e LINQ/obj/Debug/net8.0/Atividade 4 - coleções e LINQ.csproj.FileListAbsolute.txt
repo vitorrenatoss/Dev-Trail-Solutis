@@ -1,0 +1,14 @@
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\bin\Debug\net8.0\Atividade 4 - coleções e LINQ.exe
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\bin\Debug\net8.0\Atividade 4 - coleções e LINQ.deps.json
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\bin\Debug\net8.0\Atividade 4 - coleções e LINQ.runtimeconfig.json
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\bin\Debug\net8.0\Atividade 4 - coleções e LINQ.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\bin\Debug\net8.0\Atividade 4 - coleções e LINQ.pdb
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.AssemblyInfoInputs.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.AssemblyInfo.cs
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\refint\Atividade 4 - coleções e LINQ.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.pdb
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\Atividade 4 - coleções e LINQ.genruntimeconfig.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 4 - coleções e LINQ\obj\Debug\net8.0\ref\Atividade 4 - coleções e LINQ.dll

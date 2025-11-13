@@ -1,0 +1,14 @@
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\bin\Debug\net8.0\Atividade 3 - POO com contas bancarias.exe
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\bin\Debug\net8.0\Atividade 3 - POO com contas bancarias.deps.json
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\bin\Debug\net8.0\Atividade 3 - POO com contas bancarias.runtimeconfig.json
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\bin\Debug\net8.0\Atividade 3 - POO com contas bancarias.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\bin\Debug\net8.0\Atividade 3 - POO com contas bancarias.pdb
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.AssemblyInfoInputs.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.AssemblyInfo.cs
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.csproj.CoreCompileInputs.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\refint\Atividade 3 - POO com contas bancarias.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.pdb
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\Atividade 3 - POO com contas bancarias.genruntimeconfig.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 3 - POO com contas bancarias\obj\Debug\net8.0\ref\Atividade 3 - POO com contas bancarias.dll

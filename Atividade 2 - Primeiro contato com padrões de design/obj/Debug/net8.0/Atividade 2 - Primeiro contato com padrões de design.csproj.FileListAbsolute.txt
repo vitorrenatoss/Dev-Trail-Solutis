@@ -1,0 +1,14 @@
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\bin\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.exe
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\bin\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.deps.json
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\bin\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.runtimeconfig.json
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\bin\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\bin\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.pdb
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.AssemblyInfoInputs.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.AssemblyInfo.cs
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.csproj.CoreCompileInputs.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\refint\Atividade 2 - Primeiro contato com padrões de design.dll
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.pdb
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\Atividade 2 - Primeiro contato com padrões de design.genruntimeconfig.cache
+C:\Users\Vitu\source\repos\Dev Trail Solutis\Atividade 2 - Primeiro contato com padrões de design\obj\Debug\net8.0\ref\Atividade 2 - Primeiro contato com padrões de design.dll

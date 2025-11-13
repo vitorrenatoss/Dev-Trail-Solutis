@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NABqMsNMNoQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\Atividade 1 - primeiro código\\Atividade 1 - primeiro código.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

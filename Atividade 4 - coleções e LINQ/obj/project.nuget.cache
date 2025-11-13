@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/B33nsuNbAs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\Atividade 4 - coleções e LINQ\\Atividade 4 - coleções e LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

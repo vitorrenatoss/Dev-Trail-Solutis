@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJwnI6EzF5Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\Atividade 3 - POO com contas bancarias\\Atividade 3 - POO com contas bancarias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

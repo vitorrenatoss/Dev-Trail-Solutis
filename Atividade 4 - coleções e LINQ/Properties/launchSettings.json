@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Atividade 4 - coleções e LINQ": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

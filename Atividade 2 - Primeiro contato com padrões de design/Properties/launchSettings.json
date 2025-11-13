@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Atividade 2 - Primeiro contato com padrões de design": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

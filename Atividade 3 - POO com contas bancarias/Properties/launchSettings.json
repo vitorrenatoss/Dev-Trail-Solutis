@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Atividade 3 - POO com contas bancarias": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
