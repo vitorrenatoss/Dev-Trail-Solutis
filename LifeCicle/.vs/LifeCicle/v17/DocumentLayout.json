@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|c:\\users\\vitu\\source\\repos\\dev trail solutis\\lifecicle\\services\\lifetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|solutionrelative:services\\lifetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|c:\\users\\vitu\\source\\repos\\dev trail solutis\\lifecicle\\services\\ilifetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|solutionrelative:services\\ilifetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|c:\\users\\vitu\\source\\repos\\dev trail solutis\\lifecicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|c:\\users\\vitu\\source\\repos\\dev trail solutis\\lifecicle\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|c:\\users\\vitu\\source\\repos\\dev trail solutis\\lifecicle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8E543BE-D7EF-46DB-BE3A-2BFB2991B2AF}|LifeCicle.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T12:46:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T12:45:05.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:37:37.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LifeTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Services\\LifeTimeService.cs",
+              "RelativeDocumentMoniker": "Services\\LifeTimeService.cs",
+              "ToolTip": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Services\\LifeTimeService.cs",
+              "RelativeToolTip": "Services\\LifeTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:36:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILifeTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Services\\ILifeTimeService.cs",
+              "RelativeDocumentMoniker": "Services\\ILifeTimeService.cs",
+              "ToolTip": "C:\\Users\\Vitu\\source\\repos\\Dev Trail Solutis\\LifeCicle\\Services\\ILifeTimeService.cs",
+              "RelativeToolTip": "Services\\ILifeTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:35:20.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
